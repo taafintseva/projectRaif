@@ -1,0 +1,2 @@
+# projectRaif
+This research project consists of evaluating the placement of walk-in ATMs in Moscow. The evaluation of ATM efficiency is measured by the number of transactions of this ATM and these data are provided by the initiator of the project, i.e. Raiffeisenbank. Based on the above, it is necessary to deduce possible factors that have a greater influence on the number of transactions of each ATM.
